@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f0ff2da-11ab-43f6-9a66-c268750869f1" name="Default Changelist" comment="" />
+    <list default="true" id="7f0ff2da-11ab-43f6-9a66-c268750869f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/udemy-jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../composition1-java" beforeDir="false" afterPath="$PROJECT_DIR$/../composition1-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1bMpdfNPdMrGILqVBJ3jaRsssu2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,12 +33,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Program" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.Program" />
       <module name="udemy-jdbc" />
       <extension name="coverage">
@@ -41,11 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Program" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="application.Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,25 +74,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="87" key="#Project_Structure" timestamp="1588540580888">
+    <state x="320" y="87" key="#Project_Structure" timestamp="1590271355914">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="320" y="87" key="#Project_Structure/0.23.1440.797@0.23.1440.797" timestamp="1588540580887" />
-    <state width="699" height="204" key="GridCell.Tab.0.bottom" timestamp="1589670871796">
+    <state x="320" y="87" key="#Project_Structure/0.23.1440.797@0.23.1440.797" timestamp="1590271355914" />
+    <state x="166" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590270985712">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="699" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1589670871796" />
-    <state width="699" height="204" key="GridCell.Tab.0.center" timestamp="1589670871794">
+    <state x="166" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1590270985712" />
+    <state x="439" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590270984560">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="699" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1589670871794" />
-    <state width="699" height="204" key="GridCell.Tab.0.left" timestamp="1589670871793">
+    <state x="439" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.797@0.23.1440.797" timestamp="1590270984560" />
+    <state width="699" height="106" key="GridCell.Tab.0.bottom" timestamp="1590273056529">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="699" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1589670871793" />
-    <state width="699" height="204" key="GridCell.Tab.0.right" timestamp="1589670871795">
+    <state width="699" height="106" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590273056529" />
+    <state width="699" height="106" key="GridCell.Tab.0.center" timestamp="1590273056527">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="699" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1589670871795" />
+    <state width="699" height="106" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1590273056527" />
+    <state width="699" height="106" key="GridCell.Tab.0.left" timestamp="1590273056526">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="699" height="106" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1590273056526" />
+    <state width="699" height="106" key="GridCell.Tab.0.right" timestamp="1590273056528">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="699" height="106" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1590273056528" />
+    <state x="312" y="146" width="816" height="550" key="find.popup" timestamp="1590270848818">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="312" y="146" width="816" height="550" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1590270848818" />
   </component>
 </project>
